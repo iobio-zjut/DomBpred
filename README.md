@@ -12,7 +12,7 @@ College of Information Engineering
 
 Zhejiang University of Technology, Hangzhou 310023, China
 
-Email: zhongze0820@163.com, pengcx@zjut.edu.cn
+Email: zhongze0820@163.com, chunxiangpeng@zjut.edu.cn
 
 
 
