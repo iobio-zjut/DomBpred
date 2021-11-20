@@ -64,6 +64,10 @@ python  ./DomBpred.pyc  -seq_path=./example/2cbla.fasta  -msa_path=./example/2cb
 
 jackhmmer  --notextw  -A  ./XXXmsa.txt  XXX.fasta  SDSL.txt
 
+- trRosetta prediction distance file conversion
+
+python  npz_2_dist.py  -in_path=XXX.npz  -out_path=XXX.npz
+
 
 
 ## DISCLAIMER
