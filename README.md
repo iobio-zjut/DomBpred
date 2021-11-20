@@ -58,7 +58,7 @@ optional arguments:
 
 - Predicting
 
-python  ./DomBpred.py  -seq_path=./example/2cbla.fasta  -msa_path=./example/2cbla.txt  -ss2_path=./example/2cbla.ss2  -dist_path=./example/2cbla.npz  -log=./result.txt
+python  ./DomBpred.pyc  -seq_path=./example/2cbla.fasta  -msa_path=./example/2cbla.txt  -ss2_path=./example/2cbla.ss2  -dist_path=./example/2cbla.npz  -log=./result.txt
 
 - Use jackhmmer to search for msa
 
