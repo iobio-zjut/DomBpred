@@ -30,7 +30,7 @@ Email: zgj@zjut.edu.cn
 
 ## INSTALLATION
 
-- Python > 3.5
+- Python = 3.7
 - HMMER (Jackhmmer is one of the HMMER toolkits, it's used to search the MSA of the target sequence from SDSL) (Download link: http://www.hmmer.org/)
 - PSIPRED (it's used to predict the secondary structure of the target sequence) (Online server link: http://bioinf.cs.ucl.ac.uk/psipred/) (Download link: http://bioinfadmin.cs.ucl.ac.uk/downloads/psipred/)
 - trRosetta(it's used to predict the distance profile of the target sequence) (Online server link: https://yanglab.nankai.edu.cn/trRosetta/)
